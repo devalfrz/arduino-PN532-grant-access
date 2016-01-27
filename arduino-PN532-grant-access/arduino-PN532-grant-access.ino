@@ -2,7 +2,7 @@
 /*! 
     @file     Mifare_grant_access.pde
     @author   Alfredo Rius
-	  @license  BSD
+    @license  BSD
 
     This program is based on the readMifare.pde from Adafruit. It takes the
     first 4 bytes of a Mifare card uid and compares it to flash memory. Since
